@@ -72,7 +72,7 @@ class PokeFetch extends Component {
       this.setState({darken: 'brightness(100%)'})
     } 
   }
-  
+  g
   render() {
     return (
       <div className={'wrapper'}>
